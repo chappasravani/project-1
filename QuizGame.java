@@ -65,3 +65,58 @@ public class QuizGame {
         }
     }
 }
+
+
+
+"C:\Users\chapp\OneDrive\Pictures\Screenshots\Screenshot 2025-06-25 222242.png"
+
+#OUTPUT
+ C:\Users\chapp\OneDrive\Documents>javac QuizGame.java
+
+C:\Users\chapp\OneDrive\Documents>java QuizGame
+=== Welcome to the Quiz Game ===
+
+What is the capital of France?
+A. Berlin
+B. London
+C. Paris
+D. Madrid
+Your answer (A/B/C/D): b
+Wrong! Correct answer is: C
+
+Which planet is known as the Red Planet?
+A. Earth
+B. Mars
+C. Jupiter
+D. Saturn
+Your answer (A/B/C/D): b
+Correct!
+
+Who wrote 'Romeo and Juliet'?
+A. Mark Twain
+B. William Shakespeare
+C. Charles Dickens
+D. Leo Tolstoy
+Your answer (A/B/C/D): b
+Correct!
+
+Which gas do plants absorb?
+A. Oxygen
+B. Nitrogen
+C. Carbon Dioxide
+D. Hydrogen
+Your answer (A/B/C/D): c
+Correct!
+
+How many continents are there on Earth?
+A. 5
+B. 6
+C. 7
+D. 8
+Your answer (A/B/C/D): c
+Correct!
+
+=== Quiz Over! ===
+Your Score: 4 out of 5
+Good job! Keep learning.
+"C:\Users\chapp\OneDrive\Pictures\Screenshots\Screenshot 2025-06-25 222242.png"
